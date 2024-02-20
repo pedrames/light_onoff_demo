@@ -1,0 +1,10 @@
+D:\c# programming\light_onoff_demo\bin\Debug\light_onoff_demo.exe.config
+D:\c# programming\light_onoff_demo\bin\Debug\light_onoff_demo.exe
+D:\c# programming\light_onoff_demo\bin\Debug\light_onoff_demo.pdb
+D:\c# programming\light_onoff_demo\obj\Debug\light_onoff_demo.csprojAssemblyReference.cache
+D:\c# programming\light_onoff_demo\obj\Debug\light_onoff_demo.Form1.resources
+D:\c# programming\light_onoff_demo\obj\Debug\light_onoff_demo.Properties.Resources.resources
+D:\c# programming\light_onoff_demo\obj\Debug\light_onoff_demo.csproj.GenerateResource.cache
+D:\c# programming\light_onoff_demo\obj\Debug\light_onoff_demo.csproj.CoreCompileInputs.cache
+D:\c# programming\light_onoff_demo\obj\Debug\light_onoff_demo.exe
+D:\c# programming\light_onoff_demo\obj\Debug\light_onoff_demo.pdb
